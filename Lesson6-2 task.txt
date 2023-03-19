@@ -1,0 +1,8 @@
+kullanılan araçlar:Combobox - Listbox
+
+buttona tıkladığınız zaman  kişinin adını, soyadını, Mesleğini, Yaşını ve maaş bilgilerini textboxdan alıp.
+bunları tek sırada yazıdrsın.
+
+örn:listbox1.items.add(textbox2.text+ " " +textbox1.text);
+
+homework done.
